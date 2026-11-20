@@ -2,9 +2,11 @@
 
 ## About the Project
 
-This repository contains a project developed as part of a university laboratory assignment.
+This repository is used for a university laboratory assignment focused on collaborative software development.
 
-The purpose of this project is to practice collaborative software development using Git and GitHub.
+Its purpose is to demonstrate the use of Git and GitHub for managing project development, including branches, commits, issues, pull requests, and code reviews.
+
+The repository currently contains project documentation. Source code may be added in future stages.
 
 ## Project Structure
 
@@ -27,6 +29,8 @@ Navigate to the project directory:
 cd laba_iimpi
 ```
 
+Currently, the repository contains documentation only. There is no executable source code, build configuration, or application to run yet.
+
 ## Contributing
 
 Contributions are welcome.
@@ -38,4 +42,4 @@ Contributions are welcome.
 
 ## License
 
-No license has been specified yet.
+No license has been selected for this project yet. A LICENSE file will be added once the project owner chooses an appropriate license.
